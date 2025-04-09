@@ -1,7 +1,8 @@
 # Carte communale
 
 ## Description
-La [documentation du standard](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html) est disponible ici.
+> [!TIP]
+> Le standard CNIG Carte Communale n'a pas de schéma directement exploitable par schema.data.gouv.fr. Vous pouvez consulter la [documentation du standard](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html) sur le site du CNIG.
 
 Ce standard national d’échange de données géographiques a pour but d'harmoniser les informations minimales de description des cartes communales. Il vise à assurer l'interopérabilité des données géographiques et textuelles des documents d’urbanisme (cartes communales) vis à vis des infrastructures de données géographiques et notamment du Géoportail de l’urbanisme.
 
